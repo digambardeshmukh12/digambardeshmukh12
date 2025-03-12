@@ -1,53 +1,63 @@
-# Hi there! 👋 I'm Digambar Deshmukh  
+# 👋 Hello, I'm Digambar Deshmukh!  
 
 🚀 **Full Stack Developer | Angular & .NET Core Enthusiast**  
-🎨 Passionate about building visually appealing & user-friendly web applications  
-📌 Currently working at **ASSETCUES** as a Full Stack Developer  
+🎨 Passionate about crafting **visually stunning & high-performance web applications**  
+📌 Currently working at **ASSETCUES** as a **Full Stack Developer**  
 
 ---
 
-## 🔥 About Me  
+## ✨ About Me  
 
-- 💻 Specializing in **Angular**, **.NET Core**, **Spring Boot**, & **Database Management**  
-- 🎯 Focused on creating robust, scalable, and high-performance applications  
-- 🌟 Love working on **frontend animations, UI/UX improvements, and API integrations**  
-- 🔍 Always exploring new tech and keeping up with industry trends  
+🔹 Specializing in **Angular, .NET Core, Spring Boot, & Database Management**  
+🔹 Enthusiastic about **UI/UX improvements, animations, & seamless API integrations**  
+🔹 Dedicated to **building scalable, robust, & user-friendly solutions**  
+🔹 Lifelong learner—constantly exploring new technologies and industry trends  
+
+---
+
+## 💼 Experience  
+
+### **ASSETCUES | Full Stack Developer** *(Aug 2023 – Present)*  
+🔹 Developing **interactive & scalable web applications** using Angular & .NET Core  
+🔹 Integrated **dynamic API solutions** for real-time data processing  
+🔹 Collaborated with UX/UI designers, backend developers, and product managers  
+🔹 Created **custom UI components & animations** to enhance user experience  
+
+### **AssetCues Solutions Pvt Ltd | Frontend Development Intern** *(Internship)*  
+🔹 Built **responsive Angular applications** with Material UI  
+🔹 Integrated frontend components with **.NET Core APIs**  
+🔹 Enhanced **UI/UX interactions** with smooth animations and transitions  
 
 ---
 
 ## 🛠 Tech Stack  
 
-### Frontend  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+**🌐 Frontend:**  
+`Angular` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS`  
 
-### Backend  
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  
+**🖥️ Backend:**  
+`.NET Core` • `Spring Boot` • `Node.js`  
 
-### Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+**💾 Database:**  
+`MySQL` • `PostgreSQL` • `SQL Server`  
 
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
+**🛠 Tools & Platforms:**  
+`Git` • `GitHub` • `Visual Studio Code` • `Postman`  
 
 ---
 
+## 🏆 My Recent Work  
 
+💡 **Visitor Management System** – Designed an intuitive dashboard for real-time visitor tracking  
+📊 **Web-based Pivot Table** – Developed a dynamic table with drag-and-drop data analysis  
+🎨 **Custom Angular UI Components** – Created **interactive and animated UI elements**  
 
-## 📫 Connect with Me  
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digambar2001/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/digambardeshmukh12)  
-[![Email](https://img.shields.io/badge/Email-digambardeshmukhoffice@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:digambardeshmukhoffice@gmail.com)  
+## 📩 Let's Connect!  
 
-💡 *"Striving for excellence, one project at a time!"* 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digambar2001/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/digambardeshmukh12)  
+[![Email](https://img.shields.io/badge/Email-digambardeshmukhoffice@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digambardeshmukhoffice@gmail.com)  
+
+🚀 *"Building experiences that users love!"*  
