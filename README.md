@@ -59,10 +59,13 @@
 ---
 
 ## 🏆 My Recent Work  
-
+🌐 **Social Media Website** – Built a fully responsive **social media platform** with **user profiles, posts, and real-time interactions**  
+📚 **Angular HTML Editor Library (dd-html-generator)** – Created a **feature-rich Angular library** for **HTML content generation with rich text formatting, tables, and animations**
 💡 **Visitor Management System** – Designed an intuitive dashboard for **real-time visitor tracking**  
-📊 **Web-based Pivot Table** – Developed a **dynamic table** with drag-and-drop data analysis  
+📊 **Web-based Pivot Table** – Developed a **dynamic table** with **drag-and-drop data analysis**  
 🎨 **Custom Angular UI Components** – Created **interactive and animated UI elements**  
+
+
 
 ---
 
