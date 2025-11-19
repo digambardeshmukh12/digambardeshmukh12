@@ -25,11 +25,6 @@
 🔹 Created **custom UI components & animations** to enhance user experience  
 🔹 Collaborated with UX/UI designers, backend developers, and product managers  
 
-### 🏢 **AssetCues Solutions Pvt Ltd | Frontend Development Intern** *(Internship)*  
-🔹 Built **responsive Angular applications** with Material UI  
-🔹 Integrated frontend components with **.NET Core APIs**  
-🔹 Enhanced **UI/UX interactions** with smooth animations and transitions  
-
 ---
 
 ## 🛠 Tech Stack  
