@@ -13,7 +13,7 @@
 - 🔹 Specializing in **Angular, .NET Core, Spring Boot, & Database Management**  
 - 🎨 Enthusiastic about **UI/UX improvements, animations, & seamless API integrations**  
 - 💡 Dedicated to **building scalable, robust, & user-friendly solutions**  
-- 📖 Lifelong learner—constantly exploring new technologies and industry trends  
+- 📖 Lifelong learner constantly exploring new technologies and industry trends  
 
 ---
 
